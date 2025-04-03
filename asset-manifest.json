@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rent_burden_interactive_map/static/css/main.ef82301a.css",
+    "main.js": "/rent_burden_interactive_map/static/js/main.917e2895.js",
+    "index.html": "/rent_burden_interactive_map/index.html",
+    "main.ef82301a.css.map": "/rent_burden_interactive_map/static/css/main.ef82301a.css.map",
+    "main.917e2895.js.map": "/rent_burden_interactive_map/static/js/main.917e2895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef82301a.css",
+    "static/js/main.917e2895.js"
+  ]
+}
